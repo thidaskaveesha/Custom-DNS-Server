@@ -58,7 +58,7 @@ This project is a **Custom DNS Server** built using Python. It resolves specific
 
 3. Run the DNS server:
    ```bash
-   python dns_server.py
+   python CustomDNSServer.py
    ```
 
 ## Configuration
